@@ -1,1 +1,3 @@
-Create Lab 1 folder
+Name: D Harikrishnan
+SRN: PES1UG24CS136
+
